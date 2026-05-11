@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--           GITHUB PROFILE — goodboy882 · x10THINK           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -8,7 +7,7 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║         TRẦN TRƯỜNG THIÊN ĐỨC  ·  @goodboy882            ║
-║              FULL-STACK DEVELOPER                        ║
+║              FULL-STACK DEVELOPER · GAMER                ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -29,7 +28,8 @@ focus     : Full-Stack Development · Cloud · AI tools
 motto     : "Ship fast. Learn faster."
 ```
 
-📧 **Email:** [ducttttd01167@gmail.com](mailto:ducttttd01167@gmail.com)    
+📧 **Email:** [ducttttd01167@gmail.com](mailto:ducttttd01167@gmail.com)  
+📞 **Phone:** [0799 421 208](tel:+84799421208)  
 🐙 **GitHub:** [@goodboy882](https://github.com/goodboy882)
 
 ---
@@ -81,25 +81,11 @@ motto     : "Ship fast. Learn faster."
 
 <div align="center">
 
-<!-- Streak Stats — hoạt động ổn với GitHub -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=goodboy882&hide_border=true&background=0d1117&ring=00ffb4&fire=7f5af0&currStreakLabel=00ffb4&sideLabels=a78bfa&dates=555555&stroke=1a1a2e)
 
-<!-- Trophy — không dùng vercel -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=goodboy882&theme=matrix&no-frame=true&row=1&column=6)](https://github.com/goodboy882)
 
-<!-- Activity graph -->
-[![Duc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goodboy882&bg_color=0d1117&color=00ffb4&line=7f5af0&point=00ffb4&area=true&hide_border=true)](https://github.com/goodboy882)
-
-</div>
-
----
-
-## 📈 Language Stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=goodboy882&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goodboy882&theme=github_dark)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=goodboy882&bg_color=0d1117&color=00ffb4&line=7f5af0&point=00ffb4&area=true&hide_border=true)](https://github.com/goodboy882)
 
 </div>
 
@@ -126,18 +112,3 @@ motto     : "Ship fast. Learn faster."
 ```
 
 </div>
-
-<!--
-**goodboy882/goodboy882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
