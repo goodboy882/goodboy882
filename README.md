@@ -83,8 +83,6 @@ motto     : "Ship fast. Learn faster."
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=goodboy882&hide_border=true&background=0d1117&ring=00ffb4&fire=7f5af0&currStreakLabel=00ffb4&sideLabels=a78bfa&dates=555555&stroke=1a1a2e)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=goodboy882&bg_color=0d1117&color=00ffb4&line=7f5af0&point=00ffb4&area=true&hide_border=true)](https://github.com/goodboy882)
-
 </div>
 
 ---
